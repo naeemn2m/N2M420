@@ -81,17 +81,17 @@ class Main:
  \033[1;92m /    / __ |/ _// _// /|_/ / /    / __// /|_/ / 
  \033[1;91m /_/|_/_/ |_/___/___/_/  /_/ /_/|_/____/_/  /_/                                  
 
-    “And your Lord says: "Call on Me; I will answer your
+\033[1;93m    “And your Lord says: "Call on Me; I will answer your
 
     N2M ♥ [✪ABIR✪AUTHOR   : NAEEM KHAN            N2M ♥
 
     N2M ♥ [✪ABIR✪GITHUB   : NAEEMN2M      N2M ♥
 
-    N2M ♥ [✪ABIR✪WHATSAPP : 01860350021        N2M ♥
+    N2M ♥ [✪NAEEM✪WHATSAPP : 01860350021        N2M ♥
 
     N2M ♥ [✪ABIR✪POWER BY : \x1b[1;32mNaeem\x1b[1;97m            N2M ♥
 
-    "Alhamdulillah for everything I have, Alhamdulillah for everything I had and Alhamdulillah for everything I will have.”033[1;92m""")
+\033[1;92m     "Alhamdulillah for everything I have, Alhamdulillah for everything I had and Alhamdulillah for everything I will have.”033[1;92m""")
 
 		print("%s [%s庐%s] %sTOOL NAME : %sOLD CLONER"%(G,R,G,Y,G))
 
@@ -595,7 +595,7 @@ class Main:
 
 		sys.stdout.write(
 
-			"\r\r %s\033[0;93m[Naeem Abir Khan : \033[0;97m %s/%s -> \033[0;92m [OK馃槏:%s ]- \033[0;93m[CPNaeem:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s\033[0;93m[Naeem Abir Khan : \033[0;97m %s/%s -> \033[0;92m [OKN2M ♥:%s ]- \033[0;93m[CPNaeem:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 
 		); sys.stdout.flush()
 
@@ -629,7 +629,7 @@ class Main:
 
 			if "session_key" in response.text and "EAAA" in response.text:
 
-				print("\r \033[0;92m[Naeem-OK馃槏] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[Naeem-OKN2M ♥] %s|%s\033[0;97m         "%(uid, pw))
 
 				self.ok.append("%s|%s"%(uid, pw))
 
@@ -661,4 +661,4 @@ class Main:
 
 try:Main()
 
-except Exception as e:exit(str(e))
+except Exception as e:exit(str(NAEM
