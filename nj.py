@@ -81,17 +81,17 @@ class Main:
  \033[1;92m /    / __ |/ _// _// /|_/ / /    / __// /|_/ / 
  \033[1;91m /_/|_/_/ |_/___/___/_/  /_/ /_/|_/____/_/  /_/                                  
 
-    鈹屸攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹�
+    “And your Lord says: "Call on Me; I will answer your
 
-    鈹� [鉁揮 AUTHOR   : NAEEM KHAN            鈹�
+    N2M ♥ [✪ABIR✪AUTHOR   : NAEEM KHAN            N2M ♥
 
-    鈹� [鉁揮 GITHUB   : NAEEMN2M      鈹�
+    N2M ♥ [✪ABIR✪GITHUB   : NAEEMN2M      N2M ♥
 
-    鈹� [鉁揮 WHATSAPP : 01860350021        鈹�
+    N2M ♥ [✪ABIR✪WHATSAPP : 01860350021        N2M ♥
 
-    鈹� [鉁揮 POWER BY : \x1b[1;32mNaeem\x1b[1;97m            鈹�
+    N2M ♥ [✪ABIR✪POWER BY : \x1b[1;32mNaeem\x1b[1;97m            N2M ♥
 
-    鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹榎033[1;92m""")
+    "Alhamdulillah for everything I have, Alhamdulillah for everything I had and Alhamdulillah for everything I will have.”033[1;92m""")
 
 		print("%s [%s庐%s] %sTOOL NAME : %sOLD CLONER"%(G,R,G,Y,G))
 
